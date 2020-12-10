@@ -43,9 +43,11 @@ Reference the [assembly guide](/Documentation/ORS_Instructions_v2.0.pdf) for the
 | Changelog            | 2.0     | [ORS_Changelog](/Documentation/ORS_Changelog_v2.0.pdf)     		       |
 
 ### Design Files
-[CAD Files](/Design_Files)
+[CAD Files Directory](/Design_Files)
+
 Fusion 360 Files:
  - [ORS.f3z](/Design_Files/Fusion_Files/ORS.f3z)
+ 
 Step Files:
  - [ORS_Assembly.step](/Design_Files/Step/ORS.step)
  - [ORS_Bottom.step](/Design_Files/Step/ORS_Bottom.step)
@@ -56,7 +58,7 @@ Step Files:
 
 ### Build Files
 #### 3D Printing Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files Directory](/Build_Files/3D_Printing)
  
  Version 2.0 December 2020
  - [ORS_Bottom.stl](/Build_Files/3D_Printing/ORS_Bottom.stl)
