@@ -23,7 +23,7 @@ The electronic components may be available locally, but will probably need to be
 
 Print the components for the Open Rocker Switch. The button pieces and the divider can be redesigned to customize each user's preference.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder. Refer to the [3D Printing Guide](/Documentaiton/ORS_3D_Printing_Guide_v2.0.pdf) for printing instructions.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder. Refer to the [3D Printing Guide](/Documentation/ORS_3D_Printing_Guide_v2.0.pdf) for printing instructions.
 
 ### 3. Assemble the Switch Tester
 
@@ -36,8 +36,8 @@ Reference the [assembly guide](/Documentation/ORS_Instructions_v2.0.pdf) for the
 |----------------------|---------|-----------------------------------------------------------------------|
 | Design Rationale     | 2.0     | [ORS_Design_Rationale](/Documentation/ORS_Design_Rationale_v2.0.pdf)  |
 | Bill of Materials    | 2.0     | [ORS_BOM](/Documentation/ORS_BOM_v2.0.xlsx)     	                     |
-| 3D Printing Guide    | 2.0     | [ORS_3D_Printing_Guide](/Documentaiton/ORS_3D_Printing_Guide_v2.0.pdf)|
-| Assembly Guide       | 2.0     | [ORS_Instructions](/Documentation/ORS_Instructions_v2.0.pdf)   	     |
+| 3D Printing Guide    | 2.0     | [ORS_3D_Printing_Guide](/Documentation/ORS_3D_Printing_Guide_v2.0.pdf)|
+| Assembly Guide       | 2.0     | [ORS_Assembly_Guide](/Documentation/ORS_Assembly_Guide_v2.0.pdf)   	     |
 | Maker Checklist      | 2.0     | [ORS_Checklist](/Documentation/ORS_Maker_Checklist_v2.0.pdf)          |
 | Quick Guide          | 2.0     | [ORS_Quick_Guide](/Documentation/ORS_Quick_Guide_v2.0.pdf)    	       |
 | Changelog            | 2.0     | [ORS_Changelog](/Documentation/ORS_Changelog_v2.0.pdf)     		       |
