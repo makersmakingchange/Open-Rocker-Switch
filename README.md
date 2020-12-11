@@ -27,7 +27,7 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 3. Assemble the Switch Tester
 
-Reference the [assembly guide](/Documentation/ORS_Instructions_v2.0.pdf) for the tools and steps required to build each portion.
+Reference the [assembly guide](/Documentation/ORS_Assembly_Guide_v2.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 
@@ -49,7 +49,7 @@ Fusion 360 Files:
  - [ORS.f3z](/Design_Files/Fusion_Files/ORS.f3z)
  
 Step Files:
- - [ORS_Assembly.step](/Design_Files/Step/ORS.step)
+ - [ORS_Assembly.step](/Design_Files/Step/ORS_Assembly.step)
  - [ORS_Bottom.step](/Design_Files/Step/ORS_Bottom.step)
  - [ORS_Button.step](/Design_Files/Step/ORS_Button.step)
  - [ORS_Button_Pin.step](/Design_Files/Step/ORS_Button_Pin.step)
