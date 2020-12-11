@@ -15,7 +15,7 @@ for users to customize and personalize their own switch to suit the function the
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/ORS_BOM.xlsx) lists all of the parts and components required to build the Open Rocker Switch. 
+The [Bill of Materials](/Documentation/ORS_BOM_v2.0.xlsx) lists all of the parts and components required to build the Open Rocker Switch. 
 The electronic components may be available locally, but will probably need to be ordered online.
 
 
