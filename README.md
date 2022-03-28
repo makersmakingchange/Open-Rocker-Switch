@@ -7,7 +7,6 @@ for users to customize and personalize their switch.
 
 
 ## More info at
- - [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/open-rocker-switch/115) 
  - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/open-rocker-switch/)
 
 
@@ -97,4 +96,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ## Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://makersmakingchange.com/forum/), or contact info@makersmakingchange.com
