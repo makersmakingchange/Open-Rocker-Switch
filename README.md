@@ -1,4 +1,4 @@
-# Open Rocker Switch
+# Open Rocker Switch 2.1
 
 The Open Rocker Switch is an inexpensive 3D printable accessibility switch. The switch consists of two separate buttons that are activated by pressing on either side.   The switch is 167 mm L x 79 mm W x 16 mm H and uses two standard mono 3.5 mm cables. Using the model of tactile switch specified, the activation force is about 1.3 N (130 gf) for each side. This switch is comparable in size, activation force, and travel to the discontinued AbleNet Rocker Switch. The Open Rocker Switch has interchangeable button pieces and center divider pieces
 for users to customize and personalize their switch.
