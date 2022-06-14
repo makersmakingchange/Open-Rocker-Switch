@@ -27,7 +27,7 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 3. Assemble the Switch Tester
 
-Reference the [assembly guide](/Documentation/ORS_Assembly_Guide_v2.0.pdf) for the tools and steps required to build each portion.
+Reference the [assembly guide](/Documentation/ORS_Assembly_Manual_V2.1.pdf) for the tools and steps required to build each portion.
 
 ## Files
 
@@ -46,26 +46,20 @@ Reference the [assembly guide](/Documentation/ORS_Assembly_Guide_v2.0.pdf) for t
 [CAD Files Directory](/Design_Files)
 
 Fusion 360 Files:
- - [ORS.f3z](/Design_Files/Fusion_Files/)
+ - [ORS Fusion](/Design_Files/Fusion_Files/)
  
 Step Files:
- - [ORS_Assembly.step](/Design_Files/Step/ORS_Assembly.step)
- - [ORS_Bottom.step](/Design_Files/Step/ORS_Bottom.step)
- - [ORS_Button.step](/Design_Files/Step/ORS_Button.step)
- - [ORS_Button_Pin.step](/Design_Files/Step/ORS_Button_Pin.step)
- - [ORS_Divider.step](/Design_Files/Step/ORS_Divider.step)
- - [ORS_Top.step](/Design_Files/Step/ORS_Top.step)
+ - [ORS_step](/Design_Files/STEP_Files/)
 
 ### Build Files
 #### 3D Printing Files
  - [3D Printing Files Directory](/Build_Files/3D_Printing)
  
- Version 2.0 December 2020
+ Version 2.1 July 2022
  - [ORS_Bottom.stl](/Build_Files/3D_Printing/ORS_Bottom.stl)
  - [ORS_Top.stl](/Build_Files/3D_Printing/ORS_Top.stl)
  - [ORS_Divider.stl](/Build_Files/3D_Printing/ORS_Divider.stl)
- - [ORS_Button.stl](/Build_Files/3D_Printing/ORS_Button.stl)
- - [ORS_Button_Pin.stl](/Build_Files/3D_Printing/ORS_Button_Pin.stl)
+ - [ORS_Button.stl](/Build_Files/3D_Printing/ORS_Button_Piece.stl)
 
 ## Attribution
 The Open Rocker Switch is inspired by the design of the now discontinued Ablenet Rocker Switch, originally created by TASH.
@@ -92,6 +86,7 @@ We are committed to creating a network of volunteer makers who support people wi
  - [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
  - [GitHub](https://github.com/makersmakingchange)
  - [Thingiverse](https://www.thingiverse.com/makersmakingchange/about)
+ - [Printables](https://www.printables.com/social/264031-makers-making-change/about)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
