@@ -23,7 +23,7 @@ The electronic components may be available locally, but will probably need to be
 
 Print the components for the Open Rocker Switch. The button pieces and the divider can be redesigned to customize each user's preference.
 
-All of the files and individual print files can be in the [3D_Printing_Files Folder](/3D Print Files/) folder. Refer to the [3D Printing Guide](/Documentation/ORS_3D_Printing_Guide_V2.1.pdf) for printing instructions.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing](/Build_Files/3D_Printing/) folder. Refer to the [3D Printing Guide](/Documentation/ORS_3D_Printing_Guide_V2.1.pdf) for printing instructions.
 
 ### 3. Assemble the Switch Tester
 
@@ -43,10 +43,10 @@ Reference the [assembly guide](/Documentation/ORS_Assembly_Guide_v2.0.pdf) for t
 | Changelog            | 2.0     | [ORS_Changelog](/Documentation/ORS_Changelog_V2.1.pdf)     		       |
 
 ### Design Files
-[CAD Files Directory](/Design Files)
+[CAD Files Directory](/Design_Files)
 
 Fusion 360 Files:
- - [ORS.f3z](/Design_Files/Fusion_Files/ORS.f3z)
+ - [ORS.f3z](/Design_Files/Fusion_Files/)
  
 Step Files:
  - [ORS_Assembly.step](/Design_Files/Step/ORS_Assembly.step)
