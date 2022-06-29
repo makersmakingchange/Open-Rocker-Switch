@@ -1,7 +1,7 @@
-# Open Rocker Switch 2.1
+# Open Rocker Switch
+Latest Version: 2.1 2022-June-29
 
-The Open Rocker Switch is an inexpensive 3D printable accessibility switch. The switch consists of two separate buttons that are activated by pressing on either side.   The switch is 167 mm L x 79 mm W x 16 mm H and uses two standard mono 3.5 mm cables. Using the model of tactile switch specified, the activation force is about 1.3 N (130 gf) for each side. This switch is comparable in size, activation force, and travel to the discontinued AbleNet Rocker Switch. The Open Rocker Switch has interchangeable button pieces and center divider pieces
-for users to customize and personalize their switch.
+The Open Rocker Switch is an inexpensive 3D printable accessibility switch. The switch consists of two separate buttons that are activated by pressing on either side.   The switch is 167 mm L x 79 mm W x 16 mm H and uses two standard mono 3.5 mm cables. Using the model of tactile switch specified, the activation force is about 1.3 N (130 gf) for each side. This switch is comparable in size, activation force, and travel to the discontinued AbleNet Rocker Switch. The Open Rocker Switch has interchangeable button pieces and center divider pieces for users to customize and personalize their switch.
 
 
 ![ORS_Picture 1](https://user-images.githubusercontent.com/50347013/173670066-54860165-76bc-47ce-827c-77d9d8baece5.JPG)
@@ -34,13 +34,13 @@ Reference the [assembly guide](/Documentation/ORS_Assembly_Manual_V2.1.pdf) for 
 ### Documentation
 | Document             | Version | 							Link 									                                   |
 |----------------------|---------|-----------------------------------------------------------------------|
-| Design Rationale     | 2.0     | [ORS_Design_Rationale](/Documentation/ORS_Design_Rationale_V2.1.pdf)  |
-| Bill of Materials    | 2.0     | [ORS_BOM](/Documentation/ORS_BOM_V2.1.xlsx)     	                     |
-| 3D Printing Guide    | 2.0     | [ORS_3D_Printing_Guide](/Documentation/ORS_3D_Printing_Guide_V2.1.pdf)|
-| Assembly Guide       | 2.0     | [ORS_Assembly_Guide](/Documentation/ORS_Assembly_Manual_V2.1.pdf)   	     |
-| Maker Checklist      | 2.0     | [ORS_Checklist](/Documentation/ORS_Maker_Checklist_V2.1.pdf)          |
-| Quick Guide          | 2.0     | [ORS_Quick_Guide](/Documentation/ORS_Quick_Guide_V2.1.pdf)    	       |
-| Changelog            | 2.0     | [ORS_Changelog](/Documentation/ORS_Changelog_V2.1.pdf)     		       |
+| Design Rationale     | 2.1     | [ORS_Design_Rationale](/Documentation/ORS_Design_Rationale_V2.1.pdf)  |
+| Bill of Materials    | 2.1     | [ORS_BOM](/Documentation/ORS_BOM_V2.1.xlsx)     	                     |
+| 3D Printing Guide    | 2.1     | [ORS_3D_Printing_Guide](/Documentation/ORS_3D_Printing_Guide_V2.1.pdf)|
+| Assembly Guide       | 2.1     | [ORS_Assembly_Guide](/Documentation/ORS_Assembly_Manual_V2.1.pdf)   	     |
+| Maker Checklist      | 2.1     | [ORS_Checklist](/Documentation/ORS_Maker_Checklist_V2.1.pdf)          |
+| Quick Guide          | 2.1     | [ORS_Quick_Guide](/Documentation/ORS_Quick_Guide_V2.1.pdf)    	       |
+| Changelog            | 2.1     | [ORS_Changelog](/Documentation/ORS_Changelog_V2.1.pdf)     		       |
 
 ### Design Files
 [CAD Files Directory](/Design_Files)
