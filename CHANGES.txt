@@ -1,0 +1,6 @@
+Version 2.2| 2024-08-09
+ - Changed from snap fit to pinned axle connection
+ - Added cable tied and snap fits for cable management
+ - Swapped button print orientation to allow for designs on the button
+
+
