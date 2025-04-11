@@ -1,9 +1,7 @@
 <!--- Open Source Assistive Technology: GitHub Readme Template Version 1.2 (2024-May-27)  --->
-
 <!---
 This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [Documentation_Guide](/Documentation_Guide.docx). You can see examples of other Open AT Devices at the Makers Making Change [website](https://www.makersmakingchange.com/s/category/assistive-devices). 
 --->
-
  
 <!--- TITLE --->
 # Open Rocker Switch
@@ -13,11 +11,11 @@ This is a GitHub repository intended to act as a template for an open source ass
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
 The Open Rocker Switch is an inexpensive 3D printable accessibility switch. The switch consists of two separate buttons that are activated by pressing on either side. This switch is comparable in size, activation force, and travel to the discontinued AbleNet Rocker Switch. The Open Rocker Switch has interchangeable button pieces and center divider pieces for users to customize and personalize their switch.
 
-<MODIFY LINE AS NECESSARY> The device is comprised of off-the-shelf electronics and 3D printed parts. 
+The device is comprised of off-the-shelf electronics and 3D printed parts. 
 
 The Open Rocker Switch is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about $7 (plus $8 for component shipping).
+The overall cost of materials is about $14 (plus $8 for component shipping).
 
 <img src="Photos/Open_Rocker_Switch.jpg" width="500" alt="Picture of Open Rocker Switch.">
 
@@ -47,16 +45,12 @@ The [Maker Guide](/Documentation/Open_Rocker_Switch_Maker_Guide.pdf)  contains a
 
 
 ### 2. Order the Off-The-Shelf Components
-
 The [Bill of Materials](/Documentation/Open_Rocker_Switch_BOM.xlsx) lists all of the parts and components required to build the device.
 
-
 ### 3. Print the 3D Printable components
-
 All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 4. Assemble the Open Rocker Switch
-
 Reference the Assembly Guide section of the [Maker Guide](/Documentation/Open_Rocker_Switch_Maker_Guide.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
@@ -67,10 +61,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 2.2     | [Open_Rocker_Switch_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 2.2     | [Open_Rocker_Switch_Maker_Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 2.2     | [Open_Rocker_Switch_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 2.2     | [Open_Rocker_Switch_User_Guide](/Documentation/<Device_Name>_User_Guide.pdf)    |
+| Design Rationale     | 2.2     | [Open_Rocker_Switch_Design_Rationale](/Documentation/Open_Rocker_Switch_Design_Rationale.pdf)     |
+| Maker Guide          | 2.2     | [Open_Rocker_Switch_Maker_Guide](/Documentation/Open_Rocker_Switch_Maker_Guide.pdf)     |
+| Bill of Materials    | 2.2     | [Open_Rocker_Switch_Bill_of_Materials](/Documentation/Open_Rocker_Switch_BOM.xlsx)     |
+| User Guide           | 2.2     | [Open_Rocker_Switch_User_Guide](/Documentation/Open_Rocker_Switch_User_Guide.pdf)    |
 | Changelog            | 2.2     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
@@ -109,9 +103,9 @@ Designers:
  - Jake McIvor
  - Brad Wellington
 
-
 ---
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <!--- This is standard boilerplate for Makers Making Change. No changes should be required. --->
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
@@ -131,3 +125,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
